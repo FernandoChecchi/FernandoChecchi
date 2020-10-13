@@ -15,7 +15,7 @@ Me gusta aprender y afrontar desafíos que me permitan mejorar profesionalmente.
 ![Visitor count](https://visitor-badge.laobi.icu/badge?page_id=FernandoChecchi)   <img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="30">
 </p>
 
-# 💡 Projectos
+# 💡 Algunos Proyectos
 
 ## Billetera Virtual
 
