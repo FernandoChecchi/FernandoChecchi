@@ -1,7 +1,7 @@
 <img src='https://user-images.githubusercontent.com/65245824/95809336-e3de3700-0ce4-11eb-90e9-0d9ef8c61e7d.png' width="230" align='right'>
 <h1 align="center"> Bienvenido a mi repositorio 👋 </h1>
 <p>
-Hola, soy Fernando Checchi y tengo 26 años. Como desarrollador utilizo Javascript, React, Redux, React Native, Node, Express, Sequalize, entre otros.
+Hola, soy Fernando Checchi y tengo 27 años. Como desarrollador utilizo Javascript, React, Redux, React Native, Node, Express, Sequalize, entre otros.
 <br/>
 Me gusta aprender y afrontar desafíos que me permitan mejorar profesionalmente. 
 </p>
